@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28430451/README.md)
 # Vanguard A/B Test Analysis
 
 ## Project Overview
@@ -10,8 +9,7 @@ Clients were split into:
 - **Control Group** → existing interface
 - **Test Group** → redesigned interface
 
-We evaluated user behavior across the full digital journey using KPIs, exploratory data analysis, hypothesis testing, and Tableau dashboards.
-
+We evaluated user behavior across the full digital journey using KPIs, exploratory data analysis and hypothesis testing.
 ---
 
 ## Key Questions
@@ -54,15 +52,6 @@ Main Jupyter notebooks for:
 - demographic analysis
 - hypothesis testing
 
-## `/reports`
-Contains Tableau dashboard files and exported visual assets.
-
-## `/slides`
-Presentation-related figures and assets.
-
-## `/src`
-Python helper/function files used in the analysis workflow.
-
 ---
 
 # Technologies Used
@@ -72,27 +61,8 @@ Python helper/function files used in the analysis workflow.
 - numpy
 - scipy
 - matplotlib / seaborn
-- Tableau
 - Jupyter Notebook
 - Git & GitHub
-
----
-
-# Tableau Dashboard
-
-(https://public.tableau.com/app/profile/anwen.roberts/viz/Vanguard_DASHBOARD_Ravenclaw/DASHABdemo)
-
----
-
-# Presentation Slides
-
-(https://dataftmarch2026.slack.com/archives/C0B046VULDQ/p1778158720965049)
-
----
-
-# Kanban Board
-
-(https://trello.com/b/2zmGdnpL/week-56-project)
 
 ---
 
